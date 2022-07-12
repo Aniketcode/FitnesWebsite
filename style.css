@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    color: white;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+p{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    
+}
+.lead{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    
+}
+.services{
+    width: 50%;
+    margin: auto;
+}
+a{
+    color:white;
+    list-style: none;
+    text-decoration: none;
+}
+a:hover{
+    color:white;
+
+}
